@@ -1,5 +1,7 @@
 # todo-pinia
 
+Via https://deepgram.com/learn/build-a-todo-list-with-pinia-and-vue-3
+
 ## Project setup
 ```
 yarn install
